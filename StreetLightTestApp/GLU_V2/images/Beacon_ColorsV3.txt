@@ -1,0 +1,54 @@
+
+Blue
+
+.BeaconColor
+{
+  background : -moz-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(67, 116, 185, 1) 28.14%, rgba(67, 116, 185, 1) 61.96%, rgba(59, 104, 164, 1) 75.24%, rgba(42, 75, 115, 1) 100%);
+  background : -webkit-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(67, 116, 185, 1) 28.14%, rgba(67, 116, 185, 1) 61.96%, rgba(59, 104, 164, 1) 75.24%, rgba(42, 75, 115, 1) 100%);
+  background : -webkit-gradient(radial,50.2% 75.27% ,0 , 50.2% 75.27%, 56.99 ,color-stop(0,rgba(255, 255, 255, 1) ),color-stop(0.2814,rgba(67, 116, 185, 1) ),color-stop(0.6196,rgba(67, 116, 185, 1) ),color-stop(0.7524,rgba(59, 104, 164, 1) ),color-stop(1,rgba(42, 75, 115, 1) ));
+  background : -o-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(67, 116, 185, 1) 28.14%, rgba(67, 116, 185, 1) 61.96%, rgba(59, 104, 164, 1) 75.24%, rgba(42, 75, 115, 1) 100%);
+  background : -ms-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(67, 116, 185, 1) 28.14%, rgba(67, 116, 185, 1) 61.96%, rgba(59, 104, 164, 1) 75.24%, rgba(42, 75, 115, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Stlye=2);"
+  background : radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(67, 116, 185, 1) 28.14%, rgba(67, 116, 185, 1) 61.96%, rgba(59, 104, 164, 1) 75.24%, rgba(42, 75, 115, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.Alpha(Stlye=2);
+}
+
+Red
+
+.BeaconColor
+{
+  background : -moz-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(238, 48, 53, 1) 28.14%, rgba(238, 48, 53, 1) 61.96%, rgba(217, 46, 52, 1) 72.61%, rgba(163, 41, 50, 1) 94.54%, rgba(148, 40, 49, 1) 100%);
+  background : -webkit-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(238, 48, 53, 1) 28.14%, rgba(238, 48, 53, 1) 61.96%, rgba(217, 46, 52, 1) 72.61%, rgba(163, 41, 50, 1) 94.54%, rgba(148, 40, 49, 1) 100%);
+  background : -webkit-gradient(radial,50.2% 75.27% ,0 , 50.2% 75.27%, 56.99 ,color-stop(0,rgba(255, 255, 255, 1) ),color-stop(0.2814,rgba(238, 48, 53, 1) ),color-stop(0.6196,rgba(238, 48, 53, 1) ),color-stop(0.7261,rgba(217, 46, 52, 1) ),color-stop(0.9454,rgba(163, 41, 50, 1) ),color-stop(1,rgba(148, 40, 49, 1) ));
+  background : -o-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(238, 48, 53, 1) 28.14%, rgba(238, 48, 53, 1) 61.96%, rgba(217, 46, 52, 1) 72.61%, rgba(163, 41, 50, 1) 94.54%, rgba(148, 40, 49, 1) 100%);
+  background : -ms-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(238, 48, 53, 1) 28.14%, rgba(238, 48, 53, 1) 61.96%, rgba(217, 46, 52, 1) 72.61%, rgba(163, 41, 50, 1) 94.54%, rgba(148, 40, 49, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Stlye=2);"
+  background : radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(238, 48, 53, 1) 28.14%, rgba(238, 48, 53, 1) 61.96%, rgba(217, 46, 52, 1) 72.61%, rgba(163, 41, 50, 1) 94.54%, rgba(148, 40, 49, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.Alpha(Stlye=2);
+}
+
+Green
+
+.BeaconColor
+{
+  background : -moz-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(24, 174, 75, 1) 28.14%, rgba(24, 174, 75, 1) 61.96%, rgba(24, 153, 68, 1) 72.93%, rgba(23, 99, 49, 1) 95.53%, rgba(23, 87, 45, 1) 100%);
+  background : -webkit-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(24, 174, 75, 1) 28.14%, rgba(24, 174, 75, 1) 61.96%, rgba(24, 153, 68, 1) 72.93%, rgba(23, 99, 49, 1) 95.53%, rgba(23, 87, 45, 1) 100%);
+  background : -webkit-gradient(radial,50.2% 75.27% ,0 , 50.2% 75.27%, 56.99 ,color-stop(0,rgba(255, 255, 255, 1) ),color-stop(0.2814,rgba(24, 174, 75, 1) ),color-stop(0.6196,rgba(24, 174, 75, 1) ),color-stop(0.7293,rgba(24, 153, 68, 1) ),color-stop(0.9553,rgba(23, 99, 49, 1) ),color-stop(1,rgba(23, 87, 45, 1) ));
+  background : -o-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(24, 174, 75, 1) 28.14%, rgba(24, 174, 75, 1) 61.96%, rgba(24, 153, 68, 1) 72.93%, rgba(23, 99, 49, 1) 95.53%, rgba(23, 87, 45, 1) 100%);
+  background : -ms-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(24, 174, 75, 1) 28.14%, rgba(24, 174, 75, 1) 61.96%, rgba(24, 153, 68, 1) 72.93%, rgba(23, 99, 49, 1) 95.53%, rgba(23, 87, 45, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Stlye=2);"
+  background : radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(24, 174, 75, 1) 28.14%, rgba(24, 174, 75, 1) 61.96%, rgba(24, 153, 68, 1) 72.93%, rgba(23, 99, 49, 1) 95.53%, rgba(23, 87, 45, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.Alpha(Stlye=2);
+}
+
+LEDs
+.BulbColor_29_
+{
+  background : #F1EA22;
+  background : rgba(241, 234, 34, 1);
+  border-style : Solid;
+  border-color : #B8BABC;
+  border-color : rgba(184, 186, 188, 1);
+  border-width : 2px;
+}
+

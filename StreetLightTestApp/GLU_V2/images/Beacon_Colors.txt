@@ -1,0 +1,45 @@
+
+_blue_fill
+
+.beacon_color
+{
+  background : -moz-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(57, 83, 164, 1) 28.14%, rgba(57, 83, 164, 1) 59.5%, rgba(70, 88, 143, 1) 74.79%, rgba(97, 98, 100, 1) 100%);
+  background : -webkit-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(57, 83, 164, 1) 28.14%, rgba(57, 83, 164, 1) 59.5%, rgba(70, 88, 143, 1) 74.79%, rgba(97, 98, 100, 1) 100%);
+  background : -webkit-gradient(radial,50.2% 75.27% ,0 , 50.2% 75.27%, 58.97 ,color-stop(0,rgba(255, 255, 255, 1) ),color-stop(0.2814,rgba(57, 83, 164, 1) ),color-stop(0.595,rgba(57, 83, 164, 1) ),color-stop(0.7479,rgba(70, 88, 143, 1) ),color-stop(1,rgba(97, 98, 100, 1) ));
+  background : -o-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(57, 83, 164, 1) 28.14%, rgba(57, 83, 164, 1) 59.5%, rgba(70, 88, 143, 1) 74.79%, rgba(97, 98, 100, 1) 100%);
+  background : -ms-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(57, 83, 164, 1) 28.14%, rgba(57, 83, 164, 1) 59.5%, rgba(70, 88, 143, 1) 74.79%, rgba(97, 98, 100, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Stlye=2);"
+  background : radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(57, 83, 164, 1) 28.14%, rgba(57, 83, 164, 1) 59.5%, rgba(70, 88, 143, 1) 74.79%, rgba(97, 98, 100, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.Alpha(Stlye=2);
+}
+
+_red_fill
+
+.beacon_color
+{
+  background : -moz-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(237, 28, 36, 1) 29.12%, rgba(237, 28, 36, 1) 59.5%, rgba(216, 39, 46, 1) 67.2%, rgba(161, 66, 71, 1) 83.14%, rgba(97, 98, 100, 1) 100%);
+  background : -webkit-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(237, 28, 36, 1) 29.12%, rgba(237, 28, 36, 1) 59.5%, rgba(216, 39, 46, 1) 67.2%, rgba(161, 66, 71, 1) 83.14%, rgba(97, 98, 100, 1) 100%);
+  background : -webkit-gradient(radial,50.2% 75.27% ,0 , 50.2% 75.27%, 58.97 ,color-stop(0,rgba(255, 255, 255, 1) ),color-stop(0.2912,rgba(237, 28, 36, 1) ),color-stop(0.595,rgba(237, 28, 36, 1) ),color-stop(0.672,rgba(216, 39, 46, 1) ),color-stop(0.8314,rgba(161, 66, 71, 1) ),color-stop(1,rgba(97, 98, 100, 1) ));
+  background : -o-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(237, 28, 36, 1) 29.12%, rgba(237, 28, 36, 1) 59.5%, rgba(216, 39, 46, 1) 67.2%, rgba(161, 66, 71, 1) 83.14%, rgba(97, 98, 100, 1) 100%);
+  background : -ms-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(237, 28, 36, 1) 29.12%, rgba(237, 28, 36, 1) 59.5%, rgba(216, 39, 46, 1) 67.2%, rgba(161, 66, 71, 1) 83.14%, rgba(97, 98, 100, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Stlye=2);"
+  background : radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(237, 28, 36, 1) 29.12%, rgba(237, 28, 36, 1) 59.5%, rgba(216, 39, 46, 1) 67.2%, rgba(161, 66, 71, 1) 83.14%, rgba(97, 98, 100, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.Alpha(Stlye=2);
+}
+
+
+_green_fill
+
+.beacon_color
+{
+  background : -moz-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(23, 178, 75, 1) 30.6%, rgba(23, 178, 75, 1) 59.5%, rgba(43, 157, 82, 1) 72.07%, rgba(93, 103, 99, 1) 97.97%, rgba(97, 98, 100, 1) 100%);
+  background : -webkit-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(23, 178, 75, 1) 30.6%, rgba(23, 178, 75, 1) 59.5%, rgba(43, 157, 82, 1) 72.07%, rgba(93, 103, 99, 1) 97.97%, rgba(97, 98, 100, 1) 100%);
+  background : -webkit-gradient(radial,50.2% 75.27% ,0 , 50.2% 75.27%, 58.97 ,color-stop(0,rgba(255, 255, 255, 1) ),color-stop(0.306,rgba(23, 178, 75, 1) ),color-stop(0.595,rgba(23, 178, 75, 1) ),color-stop(0.7207,rgba(43, 157, 82, 1) ),color-stop(0.9797,rgba(93, 103, 99, 1) ),color-stop(1,rgba(97, 98, 100, 1) ));
+  background : -o-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(23, 178, 75, 1) 30.6%, rgba(23, 178, 75, 1) 59.5%, rgba(43, 157, 82, 1) 72.07%, rgba(93, 103, 99, 1) 97.97%, rgba(97, 98, 100, 1) 100%);
+  background : -ms-radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(23, 178, 75, 1) 30.6%, rgba(23, 178, 75, 1) 59.5%, rgba(43, 157, 82, 1) 72.07%, rgba(93, 103, 99, 1) 97.97%, rgba(97, 98, 100, 1) 100%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Stlye=2);"
+  background : radial-gradient(50.2% 75.27%, circle farthest-corner, rgba(255, 255, 255, 1) 0%, rgba(23, 178, 75, 1) 30.6%, rgba(23, 178, 75, 1) 59.5%, rgba(43, 157, 82, 1) 72.07%, rgba(93, 103, 99, 1) 97.97%, rgba(97, 98, 100, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.Alpha(Stlye=2);
+}
+
+

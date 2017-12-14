@@ -1,0 +1,315 @@
+@charset "utf-8";
+
+
+body {
+	margin-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: auto;
+	max-width: 960px;
+	color: #FFFFFF;
+	border: medium solid #AFAFAF;
+	position: static;
+}
+
+
+
+.MainNavigation {
+	min-width: 960px;
+}
+
+.brandlogo {
+	height: 220%;
+	margin-top: -12px;
+	padding-top: 0px;
+	width: 38%;
+	
+	}
+
+
+
+.IpAdressInput {
+	padding-top: 0px;
+	margin-top: -1px;
+}
+.MainHeader {
+	background-color: #009999;
+	color: #FFFFFF;
+}
+.Section1 {
+	border: thin solid #979494;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 15px;
+}
+
+.BrandText {
+	color: #FFFFFF;
+}
+.nav.navbar-nav.navbar-right .dropdown .dropdown-toggle {
+	color: #FFFFFF;
+}
+
+.container-fluid .navbar-header .navbar-brand {
+	color: #FFFFFF;
+}
+.label-font-style {
+	color: #000000;
+	margin-top: 13px;
+}
+
+
+.AutoTestBtn {
+	width: 100%;
+	background-color: #505A64;
+	color: #FFFFFF;
+}
+.ConnectBtn {
+	width: 100%;
+	background-color: #505A64;
+	color: #FFFFFF;
+}
+.ONBtn {
+	width: 100%;
+	background-color: #505A64;
+	color: #FFFFFF;
+}
+.OffBtn {
+	width: 100%;
+	background-color: #505A64;
+	color: #FFFFFF;
+}
+.IncreaseBtn {
+	width: 100%;
+	background-color: #505A64;
+	color: #FFFFFF;
+}
+.DecreaseBtn {
+	width: 100%;
+	background-color: #505A64;
+	color: #FFFFFF;
+}
+
+.ConnectCtnr{
+	padding-top: 0px;
+	 }
+
+
+
+.DisConnectBtn {
+	width: 100%;
+	background-color: #505A64;
+	color: #FFFFFF;
+}
+.MaualTestStyle {
+	width: 100%;
+	color: #FFFFFF;
+	background-color: #505A64;
+	margin-top: -3px;
+	margin-bottom: 20px;
+	border-width: medium;
+}
+
+
+.Section2 {
+	border: thin solid #979494;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 15px;
+}
+.Section3 {
+	margin-left: 10px;
+	margin-bottom: 15px;
+}
+.sequenceText {
+	color: #000000;
+}
+.panel-title {
+	color: #000000;
+	font-size: larger;
+	font-weight: lighter;
+}
+.LedOn {
+	width: 100%;
+	background-color: #505A64;
+	color: #FFFFFF;
+	margin-bottom: -17px;
+}
+.DimPercBtn {
+	width: 100%;
+	background-color: #505A64;
+	color: #FFFFFF;
+	margin-top: -17px;
+	margin-bottom: 17px;
+}
+.DimCmdBtn {
+	width: 100%;
+	background-color: #505A64;
+	margin-top: 20px;
+	color: #FFFFFF;
+	margin-left: 0px;
+	margin-right: -0px;
+	margin-bottom: 10px;
+	text-align: center;
+	padding-left: 0px;
+}
+.DimPerccentCon {
+	border: thin solid #AFAFAF;
+}
+
+.InputHeader {
+	color: #000000;
+}
+.RadioBtnText {
+	color: #000000;
+}
+.TestHeader {
+	color: #000000;
+	margin-top: 6px;
+	margin-bottom: 1px;
+	font-weight: bold;
+	font-size: 16px;
+}
+.RedButton {
+	width: 100%;
+	background-color: #A33132;
+	color: #FFFFFF;
+}
+.GreenBtn {
+	background-color: #679268;
+	width: 100%;
+	color: #FFFFFF;
+}
+.BlueBtn {
+	width: 100%;
+	background-color: #274063;
+	height: 100%;
+	color: #FFFFFF;
+}
+.seperator {
+	border: thin solid #D7D7D7;
+	margin-bottom: 5px;
+	margin-top: 2px;
+	/*padding-bottom: 4px;*/
+}
+.sequenceoppStyle {
+	padding-top: 0px;
+	margin-top: 10px;
+
+}
+.ledonoffsect {
+	padding-bottom: 0px;
+	margin-bottom: 10px;
+}
+.leddimmingsect {
+	margin-bottom: 10px;
+	margin-top: 7px;
+}
+.panel-sectionSOpp {
+	padding-top: 0px;
+	margin-top: -7px;
+}
+.DecreaseBright {
+	margin-bottom: 0px;
+}
+.menuText {
+	color: #FFFFFF;
+}
+.DropdownLink {
+}
+.VideoFeed {
+	margin-top: 10px;
+	border: thin solid #979494;
+	padding-top: 3px;
+	padding-bottom: 0px;
+	width: auto;
+}
+.imageLight {
+	background-color: #28BBAF;
+	margin-left: auto;
+	margin-right: auto;
+}
+.StrtLightHeader {
+	text-align: center;
+
+}
+.LightImage {
+	padding-top: 27px;
+	background-color: #505A64;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 36px;
+	/*padding-bottom: 45px;*/
+}
+
+
+.frameSize {
+	width: 100%;
+}
+.VideoSource {
+
+}
+.lighBorder {
+	border: thin solid #979494;
+	margin-bottom: 15px;
+}
+.DisConnectCtnr {
+	
+}
+
+.btn:hover,
+.btn:focus,
+.btn.focus {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+
+	.container-fluid .Section4 {
+	margin-top: 3px;
+	padding-top: 9px;
+	border-style: none;		
+	}
+	
+.btn {
+	border-radius: 0px;
+		
+	}
+	
+.videoPLHText {
+font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 45px;
+	color: #BDBDBD;
+	width: auto;
+	height: 141px;
+		}
+
+.VideoConnectBtn{
+	width: 100%;
+	background-color: #505A64;
+	color: #FFFFFF;
+	margin-bottom: -10px;
+}		
+
+@media screen and (max-width: 479px) {
+	}
+
+@media (min-width: 480px) {
+	}
+
+@media (min-width: 480px) and (max-width: 767px) {
+	}
+	
+@media (min-width: 768px) {
+	}
+	
+@media (min-width: 960px) {
+	}
+	
+		
+@media (min-width: 768px) and (max-width: 959px) {
+ 
+ 
+}
+.navbarstyling {
+}
